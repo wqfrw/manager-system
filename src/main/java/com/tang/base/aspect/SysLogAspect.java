@@ -23,7 +23,7 @@ import java.util.Date;
  * 功能描述: 系统日志,切面处理类
  *
  * @param
- * @创建人: Peter
+ * @创建人: 芙蓉王
  * @return:
  **/
 @Aspect

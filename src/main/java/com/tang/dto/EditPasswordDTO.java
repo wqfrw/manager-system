@@ -10,7 +10,7 @@ import javax.validation.constraints.NotBlank;
 /**
  * @ClassName EditPasswordDTO
  * @Description TODO(这里用一句话描述这个类的作用)
- * @Author Peter
+ * @Author 芙蓉王
  * @Date 2020年11月18日 11:14
  * @Version 2.0.0
  **/
