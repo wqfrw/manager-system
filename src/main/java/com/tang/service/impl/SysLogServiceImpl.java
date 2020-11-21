@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 系统日志表 服务实现类
  * </p>
  *
- * @author peter
+ * @author 芙蓉王
  * @since 2020-11-21
  */
 @Service

@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 /**
  * @ClassName UserDTO
  * @Description TODO(这里用一句话描述这个类的作用)
- * @Author Peter
+ * @Author 芙蓉王
  * @Date 2020年11月17日 17:00
  * @Version 2.0.0
  **/

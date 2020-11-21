@@ -16,7 +16,7 @@ import java.util.Enumeration;
  * 
  * @ClassName ServletRequestUtil
  * @Description ServletRequest工具类
- * @author peter
+ * @author 芙蓉王
  * @Date Mar 7, 2020 11:18:00 AM
  * @version 1.0.0
  */

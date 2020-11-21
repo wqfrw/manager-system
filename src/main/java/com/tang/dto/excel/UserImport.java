@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * @ClassName UserImport
  * @Description TODO(用户导入实体类)
- * @Author Peter
+ * @Author 芙蓉王
  * @Date 2020年11月21日 17:31
  * @Version 2.0.0
  **/

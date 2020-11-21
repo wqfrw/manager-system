@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Peter
+ * @author 芙蓉王
  * @version 1.0.0
  * @ClassName MenuTreeBuilder
  * @Description 菜单树工具类
@@ -17,7 +17,7 @@ public class TreeBuilder {
     /**
      * 功能描述: 构建菜单树
      *
-     * @创建人: Peter
+     * @创建人: 芙蓉王
      * @创建时间: 2020年06月12日 19:52:34
      * @param menus
      * @return: java.util.List<com.cn.tianxia.admin.entity.TxhMenu>
@@ -32,7 +32,7 @@ public class TreeBuilder {
     /**
      * 功能描述: 递归查找子节点
      *
-     * @创建人: Peter
+     * @创建人: 芙蓉王
      * @创建时间: 2020年06月12日 19:52:19
      * @param
      * @return: com.cn.tianxia.admin.entity.TxhMenu

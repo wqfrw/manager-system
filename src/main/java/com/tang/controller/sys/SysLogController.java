@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 系统日志表 前端控制器
  * </p>
  *
- * @author peter
+ * @author 芙蓉王
  * @since 2020-11-21
  */
 @RestController
