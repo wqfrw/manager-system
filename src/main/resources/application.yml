@@ -1,0 +1,30 @@
+#tomcat
+server:
+#访问端口号
+  port: 8080
+  servlet:
+    context-path: /tang
+    #编码格式
+  tomcat:
+    uri-encoding: utf-8
+
+
+#spring
+spring:
+  profiles:
+    active: dev
+
+  freemarker:
+    check-template-location: false
+
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: non_null
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 100MB
+      file-size-threshold: 0
