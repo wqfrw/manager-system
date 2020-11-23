@@ -22,7 +22,6 @@ public class SecurityPasswordEncoder extends BCryptPasswordEncoder {
     @Override
     public boolean matches(CharSequence rawPassword, String encodedPassword) {
         String password = rawPassword.toString();
-        log.info("password:{},encodedPassword:{}",password,encodedPassword);
         return password.equals(encodedPassword);
     }
     

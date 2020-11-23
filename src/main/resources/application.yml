@@ -28,3 +28,7 @@ spring:
       max-file-size: 10MB
       max-request-size: 100MB
       file-size-threshold: 0
+
+#打印日志
+logging:
+  config: classpath:log4j.yml
